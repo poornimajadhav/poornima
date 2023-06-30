@@ -1,0 +1,140 @@
+1] a)29
+2] c)20
+3] a)100
+4] c)63
+5] c)43
+6] b)K
+7] a)P
+8] b)FR
+9] c)bccab
+10] a)GOV
+11] 2
+12] 38
+13] Window
+14] Sun
+15] BE
+
+              JAVA TEST 
+			  
+			  
+ 1]Java : 	It is a platform independent lamguage.
+ 
+ 2]JDK :Java tool kit that use to run the programs.
+   JRE :Java devolopment kit iti s use to write the programs.
+   JVM :Java vritual machine it is use to run and exicute the programs.
+   
+  3]list the lamitions of arry :
+        In arry we can store only object.
+		 
+		
+       
+   4] Class is a keyword and program block of the code it can be run also blue print.
+      Object is the real world object that can be stores deals some functions.
+	  {
+		  statement;
+	  }
+	  
+	 
+
+	5] Arry : An arry is the collection of elements and elements started with the  [] by the index.
+	
+	
+	6] Java file :class file is a compiled java file, and java is all text and calss is binary. 
+	
+	   Class file :A file containing Java bytecode and having .class extension that can be executed by JVM. 
+
+	
+	 
+	 7] The length of the arry is 5.
+	 
+	 
+	 
+	 8] 	Method Signature
+	         
+	        public class MethodSignature {
+            public int add(int);
+            int 
+            return c;
+             }
+               public static void main(String args[]){
+                
+                int result = obj.add();
+                 System.out.println(result);
+               }
+			   
+               }
+	
+	
+	9] Java :It is a simple programming language. Java makes writing, 
+	         compiling, and debugging programming easy. It helps to create a code .
+			 
+			 
+			 
+			 
+			 
+    10] Variable : variable is use to store refrence.
+	    Variable types are 
+		local variable
+		globle variable
+		instance variable
+ 
+ 
+    11] Class variable : Class variables are declared using the static keyword.
+	    All instances of the class share the same value of the class variable. 
+		
+		
+		
+		
+	12] Data type : data type refers to the type of value a variable
+                   	logical operations can be applied without causing an error.
+					 
+	
+	
+	13] Java features : Java is a object oriented program language.
+	                    It is a platform Independent. 
+						Java contance JDK,JRE,JVM
+						
+						
+						
+	14] Types of arry :
+	     integer[] it is stores to integer values
+		 string[]  it stores the string values
+		 byte []   it stores the byte values
+		 float[]   it stores float values
+		 long[]    it stores long values
+		 
+		 
+		 
+    15] The arry is 5 indexes and we are trying to accesing the 6th element and its show the arry error.
+	
+	
+	
+	
+	16] System.out.println(); 
+	     
+		 it is statement  used to print the statement
+		 system is the predfined class
+		 out of subject
+		 
+		 
+		 
+	17] double equals used to comparing use
+	
+	
+	
+    18] The oparator is used to invoke the functions
+	
+	
+	19] base class of all class the functions
+	
+	
+	
+	20] public
+	    class
+		void
+		static
+		string
+		return
+		null
+		float
+		
